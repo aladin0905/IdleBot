@@ -1,0 +1,829 @@
+ItemId,name,name_no_space,name_proper
+-1,None/empty,None/empty,None/empty
+0,spruce_log,spruce log,Spruce log
+1,pine_log,pine log,Pine log
+2,chestnut_log,chestnut log,Chestnut log
+3,raw_roach,raw roach,Raw roach
+4,raw_perch,raw perch,Raw perch
+5,raw_pike,raw pike,Raw pike
+6,oak_log,oak log,Oak log
+7,maple_log,maple log,Maple log
+8,teak_log,teak log,Teak log
+9,mahogany_log,mahogany log,Mahogany log
+10,yew_log,yew log,Yew log
+11,raw_shrimp,raw shrimp,Raw shrimp
+12,raw_mackerel,raw mackerel,Raw mackerel
+13,raw_trout,raw trout,Raw trout
+14,raw_salmon,raw salmon,Raw salmon
+15,raw_carp,raw carp,Raw carp
+16,raw_bass,raw bass,Raw bass
+17,raw_lobster,raw lobster,Raw lobster
+18,raw_shark,raw shark,Raw shark
+19,gold,gold,Gold
+20,spruce_plank,spruce plank,Spruce plank
+21,pine_plank,pine plank,Pine plank
+22,chestnut_plank,chestnut plank,Chestnut plank
+23,oak_plank,oak plank,Oak plank
+24,maple_plank,maple plank,Maple plank
+25,teak_plank,teak plank,Teak plank
+26,mahogany_plank,mahogany plank,Mahogany plank
+27,yew_plank,yew plank,Yew plank
+28,tin_ore,tin ore,Tin ore
+29,copper_ore,copper ore,Copper ore
+30,iron_ore,iron ore,Iron ore
+31,coal_ore,coal ore,Coal ore
+32,silver_ore,silver ore,Silver ore
+33,gold_ore,gold ore,Gold ore
+34,bronze_bar,bronze bar,Bronze bar
+35,iron_bar,iron bar,Iron bar
+36,steel_bar,steel bar,Steel bar
+37,silver_bar,silver bar,Silver bar
+38,gold_bar,gold bar,Gold bar
+39,platinum_ore,platinum ore,Platinum ore
+40,adamantite_ore,adamantite ore,Adamantite ore
+41,meteorite_ore,meteorite ore,Meteorite ore
+42,titanium_ore,titanium ore,Titanium ore
+43,platinum_bar,platinum bar,Platinum bar
+44,adamantite_bar,adamantite bar,Adamantite bar
+45,meteorite_bar,meteorite bar,Meteorite bar
+46,titanium_bar,titanium bar,Titanium bar
+47,astronomical_ore,astronomical ore,Astronomical ore
+48,astronomical_bar,astronomical bar,Astronomical bar
+49,bronze_platebody,bronze platebody,Bronze platebody
+50,bronze_platelegs,bronze platelegs,Bronze platelegs
+51,bronze_helmet,bronze helmet,Bronze helmet
+52,bronze_shield,bronze shield,Bronze shield
+53,normal_pickaxe,normal pickaxe,Normal pickaxe
+54,normal_hatchet,normal hatchet,Normal hatchet
+55,iron_platebody,iron platebody,Iron platebody
+56,iron_platelegs,iron platelegs,Iron platelegs
+57,iron_helmet,iron helmet,Iron helmet
+58,iron_shield,iron shield,Iron shield
+59,refined_pickaxe,refined pickaxe,Refined pickaxe
+60,refined_hatchet,refined hatchet,Refined hatchet
+61,steel_platebody,steel platebody,Steel platebody
+62,steel_platelegs,steel platelegs,Steel platelegs
+63,steel_helmet,steel helmet,Steel helmet
+64,steel_shield,steel shield,Steel shield
+65,great_pickaxe,great pickaxe,Great pickaxe
+66,great_hatchet,great hatchet,Great hatchet
+67,silver_ring,silver ring,Silver ring
+68,silver_amulet,silver amulet,Silver amulet
+69,silver_bracelet,silver bracelet,Silver bracelet
+70,silver_earrings,silver earrings,Silver earrings
+71,gold_ring,gold ring,Gold ring
+72,gold_amulet,gold amulet,Gold amulet
+73,gold_bracelet,gold bracelet,Gold bracelet
+74,gold_earrings,gold earrings,Gold earrings
+75,platinum_platebody,platinum platebody,Platinum platebody
+76,platinum_platelegs,platinum platelegs,Platinum platelegs
+77,platinum_helmet,platinum helmet,Platinum helmet
+78,platinum_shield,platinum shield,Platinum shield
+79,elite_pickaxe,elite pickaxe,Elite pickaxe
+80,elite_hatchet,elite hatchet,Elite hatchet
+81,meteorite_platebody,meteorite platebody,Meteorite platebody
+82,meteorite_platelegs,meteorite platelegs,Meteorite platelegs
+83,meteorite_shield,meteorite shield,Meteorite shield
+84,meteorite_helmet,meteorite helmet,Meteorite helmet
+85,superior_pickaxe,superior pickaxe,Superior pickaxe
+86,superior_hatchet,superior hatchet,Superior hatchet
+87,titanium_platebody,titanium platebody,Titanium platebody
+88,titanium_platelegs,titanium platelegs,Titanium platelegs
+89,titanium_helmet,titanium helmet,Titanium helmet
+90,titanium_shield,titanium shield,Titanium shield
+91,outstanding_pickaxe,outstanding pickaxe,Outstanding pickaxe
+92,outstanding_hatchet,outstanding hatchet,Outstanding hatchet
+93,astronomical_platebody,astronomical platebody,Astronomical platebody
+94,astronomical_platelegs,astronomical platelegs,Astronomical platelegs
+95,astronomical_helmet,astronomical helmet,Astronomical helmet
+96,astronomical_shield,astronomical shield,Astronomical shield
+97,godlike_pickaxe,godlike pickaxe,Godlike pickaxe
+98,godlike_hatchet,godlike hatchet,Godlike hatchet
+99,cooked_shrimp,cooked shrimp,Cooked shrimp
+100,cooked_mackerel,cooked mackerel,Cooked mackerel
+101,cooked_roach,cooked roach,Cooked roach
+102,cooked_perch,cooked perch,Cooked perch
+103,cooked_pike,cooked pike,Cooked pike
+104,cooked_trout,cooked trout,Cooked trout
+105,cooked_salmon,cooked salmon,Cooked salmon
+106,cooked_carp,cooked carp,Cooked carp
+107,cooked_bass,cooked bass,Cooked bass
+108,cooked_lobster,cooked lobster,Cooked lobster
+109,cooked_shark,cooked shark,Cooked shark
+110,raw_meat,raw meat,Raw meat
+111,raw_giant_meat,raw giant meat,Raw giant meat
+112,raw_quality_meat,raw quality meat,Raw quality meat
+113,raw_superior_meat,raw superior meat,Raw superior meat
+114,cooked_meat,cooked meat,Cooked meat
+115,cooked_giant_meat,cooked giant meat,Cooked giant meat
+116,cooked_quality_meat,cooked quality meat,Cooked quality meat
+117,cooked_superior_meat,cooked superior meat,Cooked superior meat
+118,nettle,nettle,Nettle
+119,blackberry,blackberry,Blackberry
+120,garlic,garlic,Garlic
+121,sweet_chestnut,sweet chestnut,Sweet chestnut
+122,blueberry,blueberry,Blueberry
+123,chanterelle,chanterelle,Chanterelle
+124,sea_buckthorn,sea buckthorn,Sea buckthorn
+125,porcini,porcini,Porcini
+126,potato_seed,potato seed,Potato seed
+127,carrot_seed,carrot seed,Carrot seed
+128,tomato_seed,tomato seed,Tomato seed
+129,cabbage_seed,cabbage seed,Cabbage seed
+130,strawberry_seed,strawberry seed,Strawberry seed
+131,watermelon_seed,watermelon seed,Watermelon seed
+132,potato,potato,Potato
+133,carrot,carrot,Carrot
+134,tomato,tomato,Tomato
+135,cabbage,cabbage,Cabbage
+136,strawberry,strawberry,Strawberry
+137,watermelon,watermelon,Watermelon
+138,onion,onion,Onion
+139,onion_seed,onion seed,Onion seed
+140,potato_soup,potato soup,Potato soup
+141,meat_burger,meat burger,Meat burger
+142,blackberry_muffin,blackberry muffin,Blackberry muffin
+143,cod_soup,cod soup,Cod soup
+144,blueberry_pie,blueberry pie,Blueberry pie
+145,salmon_salad,salmon salad,Salmon salad
+146,porcini_soup,porcini soup,Porcini soup
+147,grilled_lobster,grilled lobster,Grilled lobster
+148,power_pizza,power pizza,Power pizza
+149,normal_longsword,normal longsword,Normal longsword
+150,normal_scimitar,normal scimitar,Normal scimitar
+151,normal_heavy_hammer,normal heavy hammer,Normal heavy hammer
+152,normal_club,normal club,Normal club
+153,normal_battle_axe,normal battle axe,Normal battle axe
+154,normal_spear,normal spear,Normal spear
+155,raw_anglerfish,raw anglerfish,Raw anglerfish
+156,cooked_anglerfish,cooked anglerfish,Cooked anglerfish
+157,raw_zander,raw zander,Raw zander
+158,cooked_zander,cooked zander,Cooked zander
+159,raw_piranha,raw piranha,Raw piranha
+160,cooked_piranha,cooked piranha,Cooked piranha
+161,raw_pufferfish,raw pufferfish,Raw pufferfish
+162,cooked_pufferfish,cooked pufferfish,Cooked pufferfish
+163,raw_cod,raw cod,Raw cod
+164,cooked_cod,cooked cod,Cooked cod
+165,kiwi,kiwi,Kiwi
+166,mango,mango,Mango
+167,pomegranate,pomegranate,Pomegranate
+168,normal_bow,normal bow,Normal bow
+169,normal_crossbow,normal crossbow,Normal crossbow
+170,refined_longsword,refined longsword,Refined longsword
+171,refined_scimitar,refined scimitar,Refined scimitar
+172,refined_heavy_hammer,refined heavy hammer,Refined heavy hammer
+173,refined_club,refined club,Refined club
+174,refined_battle_axe,refined battle axe,Refined battle axe
+175,refined_spear,refined spear,Refined spear
+176,great_longsword,great longsword,Great longsword
+177,great_scimitar,great scimitar,Great scimitar
+178,great_heavy_hammer,great heavy hammer,Great heavy hammer
+179,great_club,great club,Great club
+180,great_battle_axe,great battle axe,Great battle axe
+181,great_spear,great spear,Great spear
+182,elite_longsword,elite longsword,Elite longsword
+183,elite_scimitar,elite scimitar,Elite scimitar
+184,elite_heavy_hammer,elite heavy hammer,Elite heavy hammer
+185,elite_club,elite club,Elite club
+186,elite_battle_axe,elite battle axe,Elite battle axe
+187,elite_spear,elite spear,Elite spear
+188,superior_longsword,superior longsword,Superior longsword
+189,superior_scimitar,superior scimitar,Superior scimitar
+190,superior_heavy_hammer,superior heavy hammer,Superior heavy hammer
+191,superior_club,superior club,Superior club
+192,superior_battle_axe,superior battle axe,Superior battle axe
+193,superior_spear,superior spear,Superior spear
+194,outstanding_longsword,outstanding longsword,Outstanding longsword
+195,outstanding_scimitar,outstanding scimitar,Outstanding scimitar
+196,outstanding_heavy_hammer,outstanding heavy hammer,Outstanding heavy hammer
+197,outstanding_club,outstanding club,Outstanding club
+198,outstanding_battle_axe,outstanding battle axe,Outstanding battle axe
+199,outstanding_spear,outstanding spear,Outstanding spear
+200,godlike_longsword,godlike longsword,Godlike longsword
+201,godlike_scimitar,godlike scimitar,Godlike scimitar
+202,godlike_heavy_hammer,godlike heavy hammer,Godlike heavy hammer
+203,godlike_club,godlike club,Godlike club
+204,godlike_battle_axe,godlike battle axe,Godlike battle axe
+205,godlike_spear,godlike spear,Godlike spear
+206,refined_bow,refined bow,Refined bow
+207,refined_crossbow,refined crossbow,Refined crossbow
+208,great_bow,great bow,Great bow
+209,great_crossbow,great crossbow,Great crossbow
+210,elite_bow,elite bow,Elite bow
+211,elite_crossbow,elite crossbow,Elite crossbow
+212,superior_bow,superior bow,Superior bow
+213,superior_crossbow,superior crossbow,Superior crossbow
+214,outstanding_bow,outstanding bow,Outstanding bow
+215,outstanding_crossbow,outstanding crossbow,Outstanding crossbow
+216,godlike_bow,godlike bow,Godlike bow
+217,godlike_crossbow,godlike crossbow,Godlike crossbow
+218,normal_staff,normal staff,Normal staff
+219,refined_staff,refined staff,Refined staff
+220,great_staff,great staff,Great staff
+221,elite_staff,elite staff,Elite staff
+222,superior_staff,superior staff,Superior staff
+223,outstanding_staff,outstanding staff,Outstanding staff
+224,godlike_staff,godlike staff,Godlike staff
+225,refined_gemstone,refined gemstone,Refined gemstone
+226,great_gemstone,great gemstone,Great gemstone
+227,elite_gemstone,elite gemstone,Elite gemstone
+228,superior_gemstone,superior gemstone,Superior gemstone
+229,outstanding_gemstone,outstanding gemstone,Outstanding gemstone
+230,godlike_gemstone,godlike gemstone,Godlike gemstone
+231,bronze_boots,bronze boots,Bronze boots
+232,iron_boots,iron boots,Iron boots
+233,steel_boots,steel boots,Steel boots
+234,platinum_boots,platinum boots,Platinum boots
+235,meteorite_boots,meteorite boots,Meteorite boots
+236,titanium_boots,titanium boots,Titanium boots
+237,astronomical_boots,astronomical boots,Astronomical boots
+238,bronze_gloves,bronze gloves,Bronze gloves
+239,iron_gloves,iron gloves,Iron gloves
+240,steel_gloves,steel gloves,Steel gloves
+241,platinum_gloves,platinum gloves,Platinum gloves
+242,meteorite_gloves,meteorite gloves,Meteorite gloves
+243,titanium_gloves,titanium gloves,Titanium gloves
+244,astronomical_gloves,astronomical gloves,Astronomical gloves
+245,leather,leather,Leather
+246,orange_leather,orange leather,Orange leather
+247,green_leather,green leather,Green leather
+248,red_leather,red leather,Red leather
+249,black_leather,black leather,Black leather
+250,orange_leather_trousers,orange leather trousers,Orange leather trousers
+251,orange_leather_coat,orange leather coat,Orange leather coat
+252,green_leather_trousers,green leather trousers,Green leather trousers
+253,green_leather_coat,green leather coat,Green leather coat
+254,red_leather_trousers,red leather trousers,Red leather trousers
+255,red_leather_coat,red leather coat,Red leather coat
+256,black_leather_trousers,black leather trousers,Black leather trousers
+257,black_leather_coat,black leather coat,Black leather coat
+258,leather_trousers,leather trousers,Leather trousers
+259,leather_coat,leather coat,Leather coat
+260,bronze_arrow,bronze arrow,Bronze arrow
+261,iron_arrow,iron arrow,Iron arrow
+262,steel_arrow,steel arrow,Steel arrow
+263,platinum_arrow,platinum arrow,Platinum arrow
+264,meteorite_arrow,meteorite arrow,Meteorite arrow
+265,titanium_arrow,titanium arrow,Titanium arrow
+266,astronomical_arrow,astronomical arrow,Astronomical arrow
+267,griffin_key,griffin key,Griffin key
+268,devil_key,devil key,Devil key
+269,hades_key,hades key,Hades key
+270,zeus_key,zeus key,Zeus key
+271,medusa_key,medusa key,Medusa key
+272,chimera_key,chimera key,Chimera key
+273,magical_flax,magical flax,Magical flax
+274,enchanted_flax,enchanted flax,Enchanted flax
+275,cursed_flax,cursed flax,Cursed flax
+276,magical_robe,magical robe,Magical robe
+277,magical_trousers,magical trousers,Magical trousers
+278,enchanted_robe,enchanted robe,Enchanted robe
+279,enchanted_trousers,enchanted trousers,Enchanted trousers
+280,cursed_robe,cursed robe,Cursed robe
+281,cursed_trousers,cursed trousers,Cursed trousers
+282,wizards_hat,wizards hat,Wizards hat
+283,dark_mages_hat,dark mages hat,Dark mages hat
+284,normal_fishing_rod,normal fishing rod,Normal fishing rod
+285,normal_rake,normal rake,Normal rake
+286,normal_secateurs,normal secateurs,Normal secateurs
+287,normal_hammer,normal hammer,Normal hammer
+288,normal_saw,normal saw,Normal saw
+289,normal_cooking_pan,normal cooking pan,Normal cooking pan
+290,normal_crafting_needle,normal crafting needle,Normal crafting needle
+291,refined_fishing_rod,refined fishing rod,Refined fishing rod
+292,refined_rake,refined rake,Refined rake
+293,refined_secateurs,refined secateurs,Refined secateurs
+294,refined_hammer,refined hammer,Refined hammer
+295,refined_saw,refined saw,Refined saw
+296,refined_cooking_pan,refined cooking pan,Refined cooking pan
+297,refined_crafting_needle,refined crafting needle,Refined crafting needle
+298,great_fishing_rod,great fishing rod,Great fishing rod
+299,great_rake,great rake,Great rake
+300,great_secateurs,great secateurs,Great secateurs
+301,great_hammer,great hammer,Great hammer
+302,great_saw,great saw,Great saw
+303,great_cooking_pan,great cooking pan,Great cooking pan
+304,great_crafting_needle,great crafting needle,Great crafting needle
+305,elite_fishing_rod,elite fishing rod,Elite fishing rod
+306,elite_rake,elite rake,Elite rake
+307,elite_secateurs,elite secateurs,Elite secateurs
+308,elite_hammer,elite hammer,Elite hammer
+309,elite_saw,elite saw,Elite saw
+310,elite_cooking_pan,elite cooking pan,Elite cooking pan
+311,elite_crafting_needle,elite crafting needle,Elite crafting needle
+312,superior_fishing_rod,superior fishing rod,Superior fishing rod
+313,superior_rake,superior rake,Superior rake
+314,superior_secateurs,superior secateurs,Superior secateurs
+315,superior_hammer,superior hammer,Superior hammer
+316,superior_saw,superior saw,Superior saw
+317,superior_cooking_pan,superior cooking pan,Superior cooking pan
+318,superior_crafting_needle,superior crafting needle,Superior crafting needle
+319,outstanding_fishing_rod,outstanding fishing rod,Outstanding fishing rod
+320,outstanding_rake,outstanding rake,Outstanding rake
+321,outstanding_secateurs,outstanding secateurs,Outstanding secateurs
+322,outstanding_hammer,outstanding hammer,Outstanding hammer
+323,outstanding_saw,outstanding saw,Outstanding saw
+324,outstanding_cooking_pan,outstanding cooking pan,Outstanding cooking pan
+325,outstanding_crafting_needle,outstanding crafting needle,Outstanding crafting needle
+326,godlike_fishing_rod,godlike fishing rod,Godlike fishing rod
+327,godlike_rake,godlike rake,Godlike rake
+328,godlike_secateurs,godlike secateurs,Godlike secateurs
+329,godlike_hammer,godlike hammer,Godlike hammer
+330,godlike_saw,godlike saw,Godlike saw
+331,godlike_cooking_pan,godlike cooking pan,Godlike cooking pan
+332,godlike_crafting_needle,godlike crafting needle,Godlike crafting needle
+333,cape,cape,Cape
+334,knights_cape,knights cape,Knights cape
+335,royal_cape,royal cape,Royal cape
+336,premium_one_month,premium one month,Premium one month
+337,premium_permanent,premium permanent,Premium permanent
+338,effect_scimitar,effect scimitar,Effect scimitar
+339,effect_longsword,effect longsword,Effect longsword
+340,effect_club,effect club,Effect club
+341,effect_battle_axe,effect battle axe,Effect battle axe
+342,effect_heavy_hammer,effect heavy hammer,Effect heavy hammer
+343,effect_bow,effect bow,Effect bow
+344,effect_crossbow,effect crossbow,Effect crossbow
+345,effect_staff,effect staff,Effect staff
+346,effect_spear,effect spear,Effect spear
+347,common_scroll_of_woodcutting,common scroll of woodcutting,Common scroll of woodcutting
+348,common_scroll_of_plundering,common scroll of plundering,Common scroll of plundering
+349,common_scroll_of_fishing,common scroll of fishing,Common scroll of fishing
+350,common_scroll_of_mining,common scroll of mining,Common scroll of mining
+351,common_scroll_of_smithing,common scroll of smithing,Common scroll of smithing
+352,common_scroll_of_foraging,common scroll of foraging,Common scroll of foraging
+353,common_scroll_of_farming,common scroll of farming,Common scroll of farming
+354,common_scroll_of_agility,common scroll of agility,Common scroll of agility
+355,common_scroll_of_crafting,common scroll of crafting,Common scroll of crafting
+356,rare_scroll_of_woodcutting,rare scroll of woodcutting,Rare scroll of woodcutting
+357,rare_scroll_of_plundering,rare scroll of plundering,Rare scroll of plundering
+358,rare_scroll_of_fishing,rare scroll of fishing,Rare scroll of fishing
+359,rare_scroll_of_mining,rare scroll of mining,Rare scroll of mining
+360,rare_scroll_of_smithing,rare scroll of smithing,Rare scroll of smithing
+361,rare_scroll_of_foraging,rare scroll of foraging,Rare scroll of foraging
+362,rare_scroll_of_farming,rare scroll of farming,Rare scroll of farming
+363,rare_scroll_of_agility,rare scroll of agility,Rare scroll of agility
+364,rare_scroll_of_crafting,rare scroll of crafting,Rare scroll of crafting
+365,exceptional_scroll_of_woodcutting,exceptional scroll of woodcutting,Exceptional scroll of woodcutting
+366,exceptional_scroll_of_plundering,exceptional scroll of plundering,Exceptional scroll of plundering
+367,exceptional_scroll_of_fishing,exceptional scroll of fishing,Exceptional scroll of fishing
+368,exceptional_scroll_of_mining,exceptional scroll of mining,Exceptional scroll of mining
+369,exceptional_scroll_of_smithing,exceptional scroll of smithing,Exceptional scroll of smithing
+370,exceptional_scroll_of_foraging,exceptional scroll of foraging,Exceptional scroll of foraging
+371,exceptional_scroll_of_farming,exceptional scroll of farming,Exceptional scroll of farming
+372,exceptional_scroll_of_agility,exceptional scroll of agility,Exceptional scroll of agility
+373,exceptional_scroll_of_crafting,exceptional scroll of crafting,Exceptional scroll of crafting
+374,diamond_ring,diamond ring,Diamond ring
+375,diamond_amulet,diamond amulet,Diamond amulet
+376,diamond_bracelet,diamond bracelet,Diamond bracelet
+377,diamond_earrings,diamond earrings,Diamond earrings
+378,diamond_ore,diamond ore,Diamond ore
+379,diamond_bar,diamond bar,Diamond bar
+380,exceptional_scroll_of_rigour,exceptional scroll of rigour,Exceptional scroll of rigour
+381,common_chest,common chest,Common chest
+382,rare_chest,rare chest,Rare chest
+383,exceptional_chest,exceptional chest,Exceptional chest
+384,boots_of_quickness,boots of quickness,Boots of quickness
+385,archery_boots,archery boots,Archery boots
+386,cowboy_hat,cowboy hat,Cowboy hat
+387,archers_hat,archers hat,Archers hat
+388,wizards_boots,wizards boots,Wizards boots
+389,wand_of_lifesteal,wand of lifesteal,Wand of lifesteal
+390,decayed_book,decayed book,Decayed book
+391,wizards_book,wizards book,Wizards book
+392,book_of_terrors,book of terrors,Book of terrors
+393,novices_wand,novices wand,Novices wand
+394,archers_shield,archers shield,Archers shield
+395,cosmetic_effect_flaming,cosmetic effect flaming,Cosmetic effect flaming
+396,cosmetic_effect_ghostly,cosmetic effect ghostly,Cosmetic effect ghostly
+397,cosmetic_effect_void,cosmetic effect void,Cosmetic effect void
+398,cosmetic_effect_nature,cosmetic effect nature,Cosmetic effect nature
+399,seaweed,seaweed,Seaweed
+400,grape_seed,grape seed,Grape seed
+401,grapes,grapes,Grapes
+402,papaya_seed,papaya seed,Papaya seed
+403,papaya,papaya,Papaya
+404,dragonfruit_seed,dragonfruit seed,Dragonfruit seed
+405,dragonfruit,dragonfruit,Dragonfruit
+406,redwood_log,redwood log,Redwood log
+407,magical_log,magical log,Magical log
+408,potion_of_swiftness,potion of swiftness,Potion of swiftness
+409,potion_of_negotiation,potion of negotiation,Potion of negotiation
+410,potion_of_resurrection,potion of resurrection,Potion of resurrection
+411,potion_of_forgery,potion of forgery,Potion of forgery
+412,potion_of_great_sight,potion of great sight,Potion of great sight
+413,potion_of_trickery,potion of trickery,Potion of trickery
+414,potion_of_dark_magic,potion of dark magic,Potion of dark magic
+415,potion_of_pure_power,potion of pure power,Potion of pure power
+416,potion_of_ancient_knowledge,potion of ancient knowledge,Potion of ancient knowledge
+417,silver_ring_enchanted,silver ring enchanted,Silver ring enchanted
+418,silver_amulet_enchanted,silver amulet enchanted,Silver amulet enchanted
+419,silver_bracelet_enchanted,silver bracelet enchanted,Silver bracelet enchanted
+420,silver_earrings_enchanted,silver earrings enchanted,Silver earrings enchanted
+421,gold_ring_enchanted,gold ring enchanted,Gold ring enchanted
+422,gold_amulet_enchanted,gold amulet enchanted,Gold amulet enchanted
+423,gold_bracelet_enchanted,gold bracelet enchanted,Gold bracelet enchanted
+424,gold_earrings_enchanted,gold earrings enchanted,Gold earrings enchanted
+425,diamond_ring_enchanted,diamond ring enchanted,Diamond ring enchanted
+426,diamond_amulet_enchanted,diamond amulet enchanted,Diamond amulet enchanted
+427,diamond_bracelet_enchanted,diamond bracelet enchanted,Diamond bracelet enchanted
+428,diamond_earrings_enchanted,diamond earrings enchanted,Diamond earrings enchanted
+429,common_scroll_of_rigour,common scroll of rigour,Common scroll of rigour
+430,rare_scroll_of_rigour,rare scroll of rigour,Rare scroll of rigour
+431,common_scroll_of_strength,common scroll of strength,Common scroll of strength
+432,common_scroll_of_defence,common scroll of defence,Common scroll of defence
+433,common_scroll_of_magic,common scroll of magic,Common scroll of magic
+434,common_scroll_of_archery,common scroll of archery,Common scroll of archery
+435,common_scroll_of_carpentry,common scroll of carpentry,Common scroll of carpentry
+436,common_scroll_of_enchanting,common scroll of enchanting,Common scroll of enchanting
+437,common_scroll_of_brewing,common scroll of brewing,Common scroll of brewing
+438,rare_scroll_of_strength,rare scroll of strength,Rare scroll of strength
+439,rare_scroll_of_defence,rare scroll of defence,Rare scroll of defence
+440,rare_scroll_of_magic,rare scroll of magic,Rare scroll of magic
+441,rare_scroll_of_archery,rare scroll of archery,Rare scroll of archery
+442,rare_scroll_of_carpentry,rare scroll of carpentry,Rare scroll of carpentry
+443,rare_scroll_of_enchanting,rare scroll of enchanting,Rare scroll of enchanting
+444,rare_scroll_of_brewing,rare scroll of brewing,Rare scroll of brewing
+445,exceptional_scroll_of_strength,exceptional scroll of strength,Exceptional scroll of strength
+446,exceptional_scroll_of_defence,exceptional scroll of defence,Exceptional scroll of defence
+447,exceptional_scroll_of_magic,exceptional scroll of magic,Exceptional scroll of magic
+448,exceptional_scroll_of_archery,exceptional scroll of archery,Exceptional scroll of archery
+449,exceptional_scroll_of_carpentry,exceptional scroll of carpentry,Exceptional scroll of carpentry
+450,exceptional_scroll_of_enchanting,exceptional scroll of enchanting,Exceptional scroll of enchanting
+451,exceptional_scroll_of_brewing,exceptional scroll of brewing,Exceptional scroll of brewing
+452,null,null,Null
+453,agility_cape_tier_1,agility cape tier 1,Agility cape tier 1
+454,archery_cape_tier_1,archery cape tier 1,Archery cape tier 1
+455,brewing_cape_tier_1,brewing cape tier 1,Brewing cape tier 1
+456,carpentry_cape_tier_1,carpentry cape tier 1,Carpentry cape tier 1
+457,cooking_cape_tier_1,cooking cape tier 1,Cooking cape tier 1
+458,crafting_cape_tier_1,crafting cape tier 1,Crafting cape tier 1
+459,defence_cape_tier_1,defence cape tier 1,Defence cape tier 1
+460,enchanting_cape_tier_1,enchanting cape tier 1,Enchanting cape tier 1
+461,farming_cape_tier_1,farming cape tier 1,Farming cape tier 1
+462,fishing_cape_tier_1,fishing cape tier 1,Fishing cape tier 1
+463,foraging_cape_tier_1,foraging cape tier 1,Foraging cape tier 1
+464,health_cape_tier_1,health cape tier 1,Health cape tier 1
+465,magic_cape_tier_1,magic cape tier 1,Magic cape tier 1
+466,mining_cape_tier_1,mining cape tier 1,Mining cape tier 1
+467,plundering_cape_tier_1,plundering cape tier 1,Plundering cape tier 1
+468,rigour_cape_tier_1,rigour cape tier 1,Rigour cape tier 1
+469,smithing_cape_tier_1,smithing cape tier 1,Smithing cape tier 1
+470,strength_cape_tier_1,strength cape tier 1,Strength cape tier 1
+471,woodcutting_cape_tier_1,woodcutting cape tier 1,Woodcutting cape tier 1
+472,agility_cape_tier_2,agility cape tier 2,Agility cape tier 2
+473,archery_cape_tier_2,archery cape tier 2,Archery cape tier 2
+474,brewing_cape_tier_2,brewing cape tier 2,Brewing cape tier 2
+475,carpentry_cape_tier_2,carpentry cape tier 2,Carpentry cape tier 2
+476,cooking_cape_tier_2,cooking cape tier 2,Cooking cape tier 2
+477,crafting_cape_tier_2,crafting cape tier 2,Crafting cape tier 2
+478,defence_cape_tier_2,defence cape tier 2,Defence cape tier 2
+479,enchanting_cape_tier_2,enchanting cape tier 2,Enchanting cape tier 2
+480,farming_cape_tier_2,farming cape tier 2,Farming cape tier 2
+481,fishing_cape_tier_2,fishing cape tier 2,Fishing cape tier 2
+482,foraging_cape_tier_2,foraging cape tier 2,Foraging cape tier 2
+483,health_cape_tier_2,health cape tier 2,Health cape tier 2
+484,magic_cape_tier_2,magic cape tier 2,Magic cape tier 2
+485,mining_cape_tier_2,mining cape tier 2,Mining cape tier 2
+486,plundering_cape_tier_2,plundering cape tier 2,Plundering cape tier 2
+487,rigour_cape_tier_2,rigour cape tier 2,Rigour cape tier 2
+488,smithing_cape_tier_2,smithing cape tier 2,Smithing cape tier 2
+489,strength_cape_tier_2,strength cape tier 2,Strength cape tier 2
+490,woodcutting_cape_tier_2,woodcutting cape tier 2,Woodcutting cape tier 2
+491,agility_cape_tier_3,agility cape tier 3,Agility cape tier 3
+492,archery_cape_tier_3,archery cape tier 3,Archery cape tier 3
+493,brewing_cape_tier_3,brewing cape tier 3,Brewing cape tier 3
+494,carpentry_cape_tier_3,carpentry cape tier 3,Carpentry cape tier 3
+495,cooking_cape_tier_3,cooking cape tier 3,Cooking cape tier 3
+496,crafting_cape_tier_3,crafting cape tier 3,Crafting cape tier 3
+497,defence_cape_tier_3,defence cape tier 3,Defence cape tier 3
+498,enchanting_cape_tier_3,enchanting cape tier 3,Enchanting cape tier 3
+499,farming_cape_tier_3,farming cape tier 3,Farming cape tier 3
+500,fishing_cape_tier_3,fishing cape tier 3,Fishing cape tier 3
+501,foraging_cape_tier_3,foraging cape tier 3,Foraging cape tier 3
+502,health_cape_tier_3,health cape tier 3,Health cape tier 3
+503,magic_cape_tier_3,magic cape tier 3,Magic cape tier 3
+504,mining_cape_tier_3,mining cape tier 3,Mining cape tier 3
+505,plundering_cape_tier_3,plundering cape tier 3,Plundering cape tier 3
+506,rigour_cape_tier_3,rigour cape tier 3,Rigour cape tier 3
+507,smithing_cape_tier_3,smithing cape tier 3,Smithing cape tier 3
+508,strength_cape_tier_3,strength cape tier 3,Strength cape tier 3
+509,woodcutting_cape_tier_3,woodcutting cape tier 3,Woodcutting cape tier 3
+510,agility_cape_tier_4,agility cape tier 4,Agility cape tier 4
+511,archery_cape_tier_4,archery cape tier 4,Archery cape tier 4
+512,brewing_cape_tier_4,brewing cape tier 4,Brewing cape tier 4
+513,carpentry_cape_tier_4,carpentry cape tier 4,Carpentry cape tier 4
+514,cooking_cape_tier_4,cooking cape tier 4,Cooking cape tier 4
+515,crafting_cape_tier_4,crafting cape tier 4,Crafting cape tier 4
+516,defence_cape_tier_4,defence cape tier 4,Defence cape tier 4
+517,enchanting_cape_tier_4,enchanting cape tier 4,Enchanting cape tier 4
+518,farming_cape_tier_4,farming cape tier 4,Farming cape tier 4
+519,fishing_cape_tier_4,fishing cape tier 4,Fishing cape tier 4
+520,foraging_cape_tier_4,foraging cape tier 4,Foraging cape tier 4
+521,health_cape_tier_4,health cape tier 4,Health cape tier 4
+522,magic_cape_tier_4,magic cape tier 4,Magic cape tier 4
+523,mining_cape_tier_4,mining cape tier 4,Mining cape tier 4
+524,plundering_cape_tier_4,plundering cape tier 4,Plundering cape tier 4
+525,rigour_cape_tier_4,rigour cape tier 4,Rigour cape tier 4
+526,smithing_cape_tier_4,smithing cape tier 4,Smithing cape tier 4
+527,strength_cape_tier_4,strength cape tier 4,Strength cape tier 4
+528,woodcutting_cape_tier_4,woodcutting cape tier 4,Woodcutting cape tier 4
+529,completionist_cape_tier_1,completionist cape tier 1,Completionist cape tier 1
+530,completionist_cape_tier_2,completionist cape tier 2,Completionist cape tier 2
+531,completionist_cape_tier_3,completionist cape tier 3,Completionist cape tier 3
+532,completionist_cape_tier_4,completionist cape tier 4,Completionist cape tier 4
+533,normal_lockpicks,normal lockpicks,Normal lockpicks
+534,refined_lockpicks,refined lockpicks,Refined lockpicks
+535,great_lockpicks,great lockpicks,Great lockpicks
+536,elite_lockpicks,elite lockpicks,Elite lockpicks
+537,superior_lockpicks,superior lockpicks,Superior lockpicks
+538,outstanding_lockpicks,outstanding lockpicks,Outstanding lockpicks
+539,godlike_lockpicks,godlike lockpicks,Godlike lockpicks
+540,normal_philosopher_stone,normal philosopher stone,Normal philosopher stone
+541,refined_philosopher_stone,refined philosopher stone,Refined philosopher stone
+542,great_philosopher_stone,great philosopher stone,Great philosopher stone
+543,elite_philosopher_stone,elite philosopher stone,Elite philosopher stone
+544,superior_philosopher_stone,superior philosopher stone,Superior philosopher stone
+545,outstanding_philosopher_stone,outstanding philosopher stone,Outstanding philosopher stone
+546,godlike_philosopher_stone,godlike philosopher stone,Godlike philosopher stone
+547,common_scroll_of_cooking,common scroll of cooking,Common scroll of cooking
+548,rare_scroll_of_cooking,rare scroll of cooking,Rare scroll of cooking
+549,exceptional_scroll_of_cooking,exceptional scroll of cooking,Exceptional scroll of cooking
+550,boss_hunter_consumable,boss hunter consumable,Boss hunter consumable
+551,premium_permanent_untradeable,premium permanent untradeable,Premium permanent untradeable
+552,normal_jumping_rope,normal jumping rope,Normal jumping rope
+553,refined_jumping_rope,refined jumping rope,Refined jumping rope
+554,great_jumping_rope,great jumping rope,Great jumping rope
+555,elite_jumping_rope,elite jumping rope,Elite jumping rope
+556,superior_jumping_rope,superior jumping rope,Superior jumping rope
+557,outstanding_jumping_rope,outstanding jumping rope,Outstanding jumping rope
+558,godlike_jumping_rope,godlike jumping rope,Godlike jumping rope
+559,stew,stew,Stew
+560,toolbelt,toolbelt,Toolbelt
+561,raw_tuna,raw tuna,Raw tuna
+562,cooked_tuna,cooked tuna,Cooked tuna
+563,bulwark_shield,bulwark shield,Bulwark shield
+564,warriors_helmet,warriors helmet,Warriors helmet
+565,divine_buckler,divine buckler,Divine buckler
+566,dragon_slayers_crossbow,dragon slayers crossbow,Dragon slayers crossbow
+567,astaroths_scimitar,astaroths scimitar,Astaroths scimitar
+568,astronomical_flax,astronomical flax,Astronomical flax
+569,astronomical_leather,astronomical leather,Astronomical leather
+570,warriors_toolbelt,warriors toolbelt,Warriors toolbelt
+571,archers_toolbelt,archers toolbelt,Archers toolbelt
+572,mages_toolbelt,mages toolbelt,Mages toolbelt
+573,gatherers_handbook,gatherers handbook,Gatherers handbook
+574,eagleclaw_battle_axe,eagleclaw battle axe,Eagleclaw battle axe
+575,infernal_club,infernal club,Infernal club
+576,stygian_longsword,stygian longsword,Stygian longsword
+577,thunderbolt_bow,thunderbolt bow,Thunderbolt bow
+578,viperstrike_scimitar,viperstrike scimitar,Viperstrike scimitar
+579,divine_staff,divine staff,Divine staff
+580,sorcerers_staff,sorcerers staff,Sorcerers staff
+581,astronomical_robe,astronomical robe,Astronomical robe
+582,astronomical_trousers,astronomical trousers,Astronomical trousers
+583,astronomical_leather_coat,astronomical leather coat,Astronomical leather coat
+584,astronomical_leather_trousers,astronomical leather trousers,Astronomical leather trousers
+585,prestige,prestige,Prestige
+586,redwood_plank,redwood plank,Redwood plank
+587,magical_plank,magical plank,Magical plank
+588,lumberjacks_hat,lumberjacks hat,Lumberjacks hat
+589,lumberjacks_shirt,lumberjacks shirt,Lumberjacks shirt
+590,lumberjacks_pants,lumberjacks pants,Lumberjacks pants
+591,miners_helmet,miners helmet,Miners helmet
+592,miners_jacket,miners jacket,Miners jacket
+593,miners_pants,miners pants,Miners pants
+594,fishermans_hat,fishermans hat,Fishermans hat
+595,fishermans_jacket,fishermans jacket,Fishermans jacket
+596,fishermans_pants,fishermans pants,Fishermans pants
+597,foragers_hat,foragers hat,Foragers hat
+598,foragers_jacket,foragers jacket,Foragers jacket
+599,foragers_shorts,foragers shorts,Foragers shorts
+600,inventory_space_token,inventory space token,Inventory space token
+601,common_fishing_bait,common fishing bait,Common fishing bait
+602,rare_fishing_bait,rare fishing bait,Rare fishing bait
+603,common_resin,common resin,Common resin
+604,rare_resin,rare resin,Rare resin
+605,common_gem_dust,common gem dust,Common gem dust
+606,rare_gem_dust,rare gem dust,Rare gem dust
+607,common_flax_essence,common flax essence,Common flax essence
+608,rare_flax_essence,rare flax essence,Rare flax essence
+609,common_compost,common compost,Common compost
+610,rare_compost,rare compost,Rare compost
+611,common_vial,common vial,Common vial
+612,rare_vial,rare vial,Rare vial
+613,centaurs_shield,centaurs shield,Centaurs shield
+614,centaurs_helmet,centaurs helmet,Centaurs helmet
+615,minotaurs_horns,minotaurs horns,Minotaurs horns
+616,necromancers_hat,necromancers hat,Necromancers hat
+617,necromancers_boots,necromancers boots,Necromancers boots
+618,silver_precision_ring,silver precision ring,Silver precision ring
+619,gold_precision_ring,gold precision ring,Gold precision ring
+620,diamond_precision_ring,diamond precision ring,Diamond precision ring
+621,silver_arcane_ring,silver arcane ring,Silver arcane ring
+622,gold_arcane_ring,gold arcane ring,Gold arcane ring
+623,diamond_arcane_ring,diamond arcane ring,Diamond arcane ring
+624,silver_brute_bracelet,silver brute bracelet,Silver brute bracelet
+625,gold_brute_bracelet,gold brute bracelet,Gold brute bracelet
+626,diamond_brute_bracelet,diamond brute bracelet,Diamond brute bracelet
+627,silver_marksman_bracelet,silver marksman bracelet,Silver marksman bracelet
+628,gold_marksman_bracelet,gold marksman bracelet,Gold marksman bracelet
+629,diamond_marksman_bracelet,diamond marksman bracelet,Diamond marksman bracelet
+630,silver_precision_ring_enchanted,silver precision ring enchanted,Silver precision ring enchanted
+631,gold_precision_ring_enchanted,gold precision ring enchanted,Gold precision ring enchanted
+632,diamond_precision_ring_enchanted,diamond precision ring enchanted,Diamond precision ring enchanted
+633,silver_arcane_ring_enchanted,silver arcane ring enchanted,Silver arcane ring enchanted
+634,gold_arcane_ring_enchanted,gold arcane ring enchanted,Gold arcane ring enchanted
+635,diamond_arcane_ring_enchanted,diamond arcane ring enchanted,Diamond arcane ring enchanted
+636,silver_brute_bracelet_enchanted,silver brute bracelet enchanted,Silver brute bracelet enchanted
+637,gold_brute_bracelet_enchanted,gold brute bracelet enchanted,Gold brute bracelet enchanted
+638,diamond_brute_bracelet_enchanted,diamond brute bracelet enchanted,Diamond brute bracelet enchanted
+639,silver_marksman_bracelet_enchanted,silver marksman bracelet enchanted,Silver marksman bracelet enchanted
+640,gold_marksman_bracelet_enchanted,gold marksman bracelet enchanted,Gold marksman bracelet enchanted
+641,diamond_marksman_bracelet_enchanted,diamond marksman bracelet enchanted,Diamond marksman bracelet enchanted
+642,silver_precision_symbol,silver precision symbol,Silver precision symbol
+643,gold_precision_symbol,gold precision symbol,Gold precision symbol
+644,diamond_precision_symbol,diamond precision symbol,Diamond precision symbol
+645,silver_arcane_symbol,silver arcane symbol,Silver arcane symbol
+646,gold_arcane_symbol,gold arcane symbol,Gold arcane symbol
+647,diamond_arcane_symbol,diamond arcane symbol,Diamond arcane symbol
+648,silver_brute_symbol,silver brute symbol,Silver brute symbol
+649,gold_brute_symbol,gold brute symbol,Gold brute symbol
+650,diamond_brute_symbol,diamond brute symbol,Diamond brute symbol
+651,silver_marksman_symbol,silver marksman symbol,Silver marksman symbol
+652,gold_marksman_symbol,gold marksman symbol,Gold marksman symbol
+653,diamond_marksman_symbol,diamond marksman symbol,Diamond marksman symbol
+654,silver_berserker_symbol,silver berserker symbol,Silver berserker symbol
+655,gold_berserker_symbol,gold berserker symbol,Gold berserker symbol
+656,diamond_berserker_symbol,diamond berserker symbol,Diamond berserker symbol
+657,silver_sorcerer_symbol,silver sorcerer symbol,Silver sorcerer symbol
+658,gold_sorcerer_symbol,gold sorcerer symbol,Gold sorcerer symbol
+659,diamond_sorcerer_symbol,diamond sorcerer symbol,Diamond sorcerer symbol
+660,silver_berserker_ring,silver berserker ring,Silver berserker ring
+661,silver_berserker_ring_enchanted,silver berserker ring enchanted,Silver berserker ring enchanted
+662,gold_berserker_ring,gold berserker ring,Gold berserker ring
+663,gold_berserker_ring_enchanted,gold berserker ring enchanted,Gold berserker ring enchanted
+664,diamond_berserker_ring,diamond berserker ring,Diamond berserker ring
+665,diamond_berserker_ring_enchanted,diamond berserker ring enchanted,Diamond berserker ring enchanted
+666,silver_sorcerer_bracelet,silver sorcerer bracelet,Silver sorcerer bracelet
+667,gold_sorcerer_bracelet,gold sorcerer bracelet,Gold sorcerer bracelet
+668,diamond_sorcerer_bracelet,diamond sorcerer bracelet,Diamond sorcerer bracelet
+669,silver_sorcerer_bracelet_enchanted,silver sorcerer bracelet enchanted,Silver sorcerer bracelet enchanted
+670,gold_sorcerer_bracelet_enchanted,gold sorcerer bracelet enchanted,Gold sorcerer bracelet enchanted
+671,diamond_sorcerer_bracelet_enchanted,diamond sorcerer bracelet enchanted,Diamond sorcerer bracelet enchanted
+672,treasure_hunter_gloves,treasure hunter gloves,Treasure hunter gloves
+673,warriors_platebody,warriors platebody,Warriors platebody
+674,artisans_boots,artisans boots,Artisans boots
+675,granite_shield,granite shield,Granite shield
+676,chefs_hat,chefs hat,Chefs hat
+677,dragonscale_shield,dragonscale shield,Dragonscale shield
+678,dragonscale_boots,dragonscale boots,Dragonscale boots
+679,halloween_candy,halloween candy,Halloween candy
+680,christmas_present,christmas present,Christmas present
+681,valentines_flower,valentines flower,Valentines flower
+682,birthday_balloon,birthday balloon,Birthday balloon
+683,auto_loadout_token,auto loadout token,Auto loadout token
+684,clan_vault_space_token,clan vault space token,Clan vault space token
+685,boss_page_piece_mountain,boss page piece mountain,Boss page piece mountain
+686,boss_page_piece_burning,boss page piece burning,Boss page piece burning
+687,boss_page_piece_underworld,boss page piece underworld,Boss page piece underworld
+688,boss_page_piece_godly,boss page piece godly,Boss page piece godly
+689,boss_page_piece_stone,boss page piece stone,Boss page piece stone
+690,boss_page_piece_mutated,boss page piece mutated,Boss page piece mutated
+691,kronos_scroll,kronos scroll,Kronos scroll
+692,book_of_the_sage_cook,book of the sage cook,Book of the sage cook
+693,book_of_skinning_techniques,book of skinning techniques,Book of skinning techniques
+694,fishermans_lost_page,fishermans lost page,Fishermans lost page
+695,lumberjacks_lost_page,lumberjacks lost page,Lumberjacks lost page
+696,arrow_crafting_secrets,arrow crafting secrets,Arrow crafting secrets
+697,textile_manufacturing_techniques,textile manufacturing techniques,Textile manufacturing techniques
+698,book_of_potions,book of potions,Book of potions
+699,negotiation_techniques,negotiation techniques,Negotiation techniques
+700,otherworldly_gloves,otherworldly gloves,Otherworldly gloves
+701,otherworldly_boots,otherworldly boots,Otherworldly boots
+702,enhanced_redwood_arrow,enhanced redwood arrow,Enhanced redwood arrow
+703,enhanced_magical_arrow,enhanced magical arrow,Enhanced magical arrow
+704,melee_resistance_seed_tier_1,melee resistance seed tier 1,Melee resistance seed tier 1
+705,melee_resistance_seed_tier_2,melee resistance seed tier 2,Melee resistance seed tier 2
+706,melee_resistance_seed_tier_3,melee resistance seed tier 3,Melee resistance seed tier 3
+707,melee_resistance_seed_tier_4,melee resistance seed tier 4,Melee resistance seed tier 4
+708,archery_resistance_seed_tier_1,archery resistance seed tier 1,Archery resistance seed tier 1
+709,archery_resistance_seed_tier_2,archery resistance seed tier 2,Archery resistance seed tier 2
+710,archery_resistance_seed_tier_3,archery resistance seed tier 3,Archery resistance seed tier 3
+711,archery_resistance_seed_tier_4,archery resistance seed tier 4,Archery resistance seed tier 4
+712,magic_resistance_seed_tier_1,magic resistance seed tier 1,Magic resistance seed tier 1
+713,magic_resistance_seed_tier_2,magic resistance seed tier 2,Magic resistance seed tier 2
+714,magic_resistance_seed_tier_3,magic resistance seed tier 3,Magic resistance seed tier 3
+715,magic_resistance_seed_tier_4,magic resistance seed tier 4,Magic resistance seed tier 4
+716,melee_resistance_herb_tier_1,melee resistance herb tier 1,Melee resistance herb tier 1
+717,melee_resistance_herb_tier_2,melee resistance herb tier 2,Melee resistance herb tier 2
+718,melee_resistance_herb_tier_3,melee resistance herb tier 3,Melee resistance herb tier 3
+719,melee_resistance_herb_tier_4,melee resistance herb tier 4,Melee resistance herb tier 4
+720,archery_resistance_herb_tier_1,archery resistance herb tier 1,Archery resistance herb tier 1
+721,archery_resistance_herb_tier_2,archery resistance herb tier 2,Archery resistance herb tier 2
+722,archery_resistance_herb_tier_3,archery resistance herb tier 3,Archery resistance herb tier 3
+723,archery_resistance_herb_tier_4,archery resistance herb tier 4,Archery resistance herb tier 4
+724,magic_resistance_herb_tier_1,magic resistance herb tier 1,Magic resistance herb tier 1
+725,magic_resistance_herb_tier_2,magic resistance herb tier 2,Magic resistance herb tier 2
+726,magic_resistance_herb_tier_3,magic resistance herb tier 3,Magic resistance herb tier 3
+727,magic_resistance_herb_tier_4,magic resistance herb tier 4,Magic resistance herb tier 4
+728,melee_resistance_potion_tier_1,melee resistance potion tier 1,Melee resistance potion tier 1
+729,melee_resistance_potion_tier_2,melee resistance potion tier 2,Melee resistance potion tier 2
+730,melee_resistance_potion_tier_3,melee resistance potion tier 3,Melee resistance potion tier 3
+731,melee_resistance_potion_tier_4,melee resistance potion tier 4,Melee resistance potion tier 4
+732,archery_resistance_potion_tier_1,archery resistance potion tier 1,Archery resistance potion tier 1
+733,archery_resistance_potion_tier_2,archery resistance potion tier 2,Archery resistance potion tier 2
+734,archery_resistance_potion_tier_3,archery resistance potion tier 3,Archery resistance potion tier 3
+735,archery_resistance_potion_tier_4,archery resistance potion tier 4,Archery resistance potion tier 4
+736,magic_resistance_potion_tier_1,magic resistance potion tier 1,Magic resistance potion tier 1
+737,magic_resistance_potion_tier_2,magic resistance potion tier 2,Magic resistance potion tier 2
+738,magic_resistance_potion_tier_3,magic resistance potion tier 3,Magic resistance potion tier 3
+739,magic_resistance_potion_tier_4,magic resistance potion tier 4,Magic resistance potion tier 4
+740,guardians_lamp,guardians lamp,Guardians lamp
+741,guardians_brewspoon,guardians brewspoon,Guardians brewspoon
+742,guardians_trowel,guardians trowel,Guardians trowel
+743,guardians_mallet,guardians mallet,Guardians mallet
+744,guardians_chisel,guardians chisel,Guardians chisel
+745,citadel_woodworking_tips,citadel woodworking tips,Citadel woodworking tips
+746,grouping_techniques,grouping techniques,Grouping techniques
+747,pet_woodcutting,pet woodcutting,Pet woodcutting
+748,pet_fishing,pet fishing,Pet fishing
+749,pet_mining,pet mining,Pet mining
+750,pet_cooking,pet cooking,Pet cooking
+751,pet_smithing,pet smithing,Pet smithing
+752,pet_carpentry,pet carpentry,Pet carpentry
+753,pet_foraging,pet foraging,Pet foraging
+754,pet_farming,pet farming,Pet farming
+755,pet_agility,pet agility,Pet agility
+756,pet_plundering,pet plundering,Pet plundering
+757,pet_enchanting,pet enchanting,Pet enchanting
+758,pet_brewing,pet brewing,Pet brewing
+759,pet_crafting,pet crafting,Pet crafting
+760,pet_attack,pet attack,Pet attack
+761,pet_strength,pet strength,Pet strength
+762,pet_defence,pet defence,Pet defence
+763,pet_archer_tier_1,pet archer tier 1,Pet archer tier 1
+764,pet_magic_tier_1,pet magic tier 1,Pet magic tier 1
+765,questing_token,questing token,Questing token
+766,gilded_pet_1,gilded pet 1,Gilded pet 1
+767,gilded_pet_2,gilded pet 2,Gilded pet 2
+768,pet_melee_tier_1,pet melee tier 1,Pet melee tier 1
+769,pet_melee_tier_2,pet melee tier 2,Pet melee tier 2
+770,pet_melee_tier_3,pet melee tier 3,Pet melee tier 3
+771,pet_melee_tier_4,pet melee tier 4,Pet melee tier 4
+772,pet_melee_tier_5,pet melee tier 5,Pet melee tier 5
+773,pet_melee_tier_6,pet melee tier 6,Pet melee tier 6
+774,pet_melee_tier_7,pet melee tier 7,Pet melee tier 7
+775,pet_archer_tier_2,pet archer tier 2,Pet archer tier 2
+776,pet_archer_tier_3,pet archer tier 3,Pet archer tier 3
+777,pet_archer_tier_4,pet archer tier 4,Pet archer tier 4
+778,pet_archer_tier_5,pet archer tier 5,Pet archer tier 5
+779,pet_archer_tier_6,pet archer tier 6,Pet archer tier 6
+780,pet_archer_tier_7,pet archer tier 7,Pet archer tier 7
+781,pet_magic_tier_2,pet magic tier 2,Pet magic tier 2
+782,pet_magic_tier_3,pet magic tier 3,Pet magic tier 3
+783,pet_magic_tier_4,pet magic tier 4,Pet magic tier 4
+784,pet_magic_tier_5,pet magic tier 5,Pet magic tier 5
+785,pet_magic_tier_6,pet magic tier 6,Pet magic tier 6
+786,pet_magic_tier_7,pet magic tier 7,Pet magic tier 7
+787,otherworldly_gemstone,otherworldly gemstone,Otherworldly gemstone
+788,pet_melee_tier_8,pet melee tier 8,Pet melee tier 8
+789,pet_archer_tier_8,pet archer tier 8,Pet archer tier 8
+790,pet_magic_tier_8,pet magic tier 8,Pet magic tier 8
+791,otherworldly_scimitar,otherworldly scimitar,Otherworldly scimitar
+792,otherworldly_battle_axe,otherworldly battle axe,Otherworldly battle axe
+793,otherworldly_bow,otherworldly bow,Otherworldly bow
+794,otherworldly_club,otherworldly club,Otherworldly club
+795,otherworldly_crossbow,otherworldly crossbow,Otherworldly crossbow
+796,otherworldly_heavy_hammer,otherworldly heavy hammer,Otherworldly heavy hammer
+797,otherworldly_longsword,otherworldly longsword,Otherworldly longsword
+798,otherworldly_spear,otherworldly spear,Otherworldly spear
+799,otherworldly_staff,otherworldly staff,Otherworldly staff
+800,otherworldly_hatchet,otherworldly hatchet,Otherworldly hatchet
+801,otherworldly_pickaxe,otherworldly pickaxe,Otherworldly pickaxe
+802,otherworldly_fishing_rod,otherworldly fishing rod,Otherworldly fishing rod
+803,otherworldly_rake,otherworldly rake,Otherworldly rake
+804,otherworldly_secateurs,otherworldly secateurs,Otherworldly secateurs
+805,otherworldly_hammer,otherworldly hammer,Otherworldly hammer
+806,otherworldly_saw,otherworldly saw,Otherworldly saw
+807,otherworldly_cooking_pan,otherworldly cooking pan,Otherworldly cooking pan
+808,otherworldly_crafting_needle,otherworldly crafting needle,Otherworldly crafting needle
+809,otherworldly_philosopher_stone,otherworldly philosopher stone,Otherworldly philosopher stone
+810,otherworldly_lockpicks,otherworldly lockpicks,Otherworldly lockpicks
+811,otherworldly_jumping_rope,otherworldly jumping rope,Otherworldly jumping rope
+812,warriors_platelegs,warriors platelegs,Warriors platelegs
+813,spiked_shield,spiked shield,Spiked shield
+814,quiver,quiver,Quiver
+815,spider_fang,spider fang,Spider fang
+816,ancient_bone,ancient bone,Ancient bone
+817,golem_fragment,golem fragment,Golem fragment
+818,otherworldly_essence,otherworldly essence,Otherworldly essence
+819,common_thread,common thread,Common thread
+820,rare_thread,rare thread,Rare thread
+821,common_smoke_bomb,common smoke bomb,Common smoke bomb
+822,rare_smoke_bomb,rare smoke bomb,Rare smoke bomb
+823,common_seasoning,common seasoning,Common seasoning
+824,rare_seasoning,rare seasoning,Rare seasoning
+825,common_wax,common wax,Common wax
+826,rare_wax,rare wax,Rare wax
